@@ -25,9 +25,9 @@
       // name in the loop.
       if (firstLetter === 'j') {
         
-        helloSpeaker.speak(names[i]);
-      } else {
         byeSpeaker.speak(names[i]);
+      } else {
+        helloSpeaker.speak(names[i]);
       }
     }
     
