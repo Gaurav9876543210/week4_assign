@@ -1,4 +1,3 @@
-
 (function (window) {
     var byeSpeaker = {};
     // yaakovGreeter.name = "Yaakov";
