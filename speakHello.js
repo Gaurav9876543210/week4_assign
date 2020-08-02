@@ -1,4 +1,3 @@
-
 (function (window) {
     var helloSpeaker = {};
     // johnGreeter.name = "John";
@@ -10,5 +9,4 @@
     window.helloSpeaker = helloSpeaker;
   
   })(window);
-  
   
